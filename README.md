@@ -24,7 +24,7 @@ Abra o <a href="https://my.zerotier.com/">Console</a> da Zrotier no navegador e 
 <br>
 <br>
 Conecte o host na rede
-<pre>sudo zerotier-cli join "Network ID"</pre>
+<pre>sudo zerotier-cli join seu-Network-ID</pre>
 <br><br>
 <b>NOTA</b><br>
 Consegui conectar o terminal do host local via ssh com o container via ssh pelo IP da rede Zerotier
